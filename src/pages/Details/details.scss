@@ -1,0 +1,16 @@
+@import '../../theme.scss';
+
+.details {
+    h2 {
+        color: $primary-text-color;
+        font-size: 16px;
+        font-weight: 2;
+        letter-spacing: 3px;
+    }
+
+    ul {
+        list-style-type: none;
+        color: $primary-color;
+    }
+
+}

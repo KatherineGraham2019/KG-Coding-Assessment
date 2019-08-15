@@ -1,0 +1,10 @@
+@import '../../theme.scss';
+
+.home {
+    h2 {
+        color: $primary-text-color;
+        font-size: 16px;
+        font-weight: 2;
+        letter-spacing: 3px;
+    }
+}

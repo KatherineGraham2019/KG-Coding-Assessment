@@ -1,0 +1,18 @@
+$primary-color: #65b1b2;
+$secondary-color: #e2e7e4;
+$tertiary-color: #a2d8d9;
+
+$primary-text-color: #008181;
+$secondary-text-color: #f7f9f8;
+
+hr {
+    border:.5px solid $primary-color;
+    width: 80%;
+}
+
+article {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: $primary-text-color;
+}
